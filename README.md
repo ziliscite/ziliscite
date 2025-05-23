@@ -1,12 +1,13 @@
 # Hi there 👋
 
-<img align='right' src="https://art.pixilart.com/sr5z4f3573c19caws3.gif" width="260">
-
 ![version: 19.05.2024](https://img.shields.io/badge/version-23.05.2025-red)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=ziliscite&style=flat&label=visitors&color=red)&nbsp;
 ![GitHub](https://img.shields.io/github/followers/ziliscite?label=follow&style=social&color=red)&nbsp;
 
-I'm a mediocre computer science student who's currently developed a keen interest in farming. I love cultivating tomato, chili pepper, and corn.
+![](https://art.pixilart.com/sr5z4f3573c19caws3.gif)
+
+I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. 
+Beside farming, I often spend my time reading or writing fiction. 
 
 You can reach me out (for whatever reason) at manzil.akbar@gmail.com
 
