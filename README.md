@@ -6,10 +6,9 @@
 
 ![](https://art.pixilart.com/sr5z4f3573c19caws3.gif)
 
-I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. 
-Beside farming, I often spend my time reading or writing fiction. 
+#### I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. Beside farming, I often spend my time reading or writing fiction. 
 
-You can reach me out (for whatever reason) at manzil.akbar@gmail.com
+#### You can reach me out (for whatever reason) at manzil.akbar@gmail.com
 
 ---
 
