@@ -10,7 +10,9 @@ I'm a mediocre computer science student who's currently developed a keen interes
 
 I’ve spent a fair amount of time doing backend development—I mostly use Go and did a little bit of Python. I’ve built a bunch of REST APIs, some with microservice or event-driven designs. It's not that good, but some of them run. I’ve also done Android apps in Kotlin, tried to make sure the UI is pretty and responsive, with clean state and route management. My web frontend experience is very limited, just a basic Django MVC app with raw HTML/CSS/JS. Recently, I’ve become interested in cloud infrastructure. Things like AWS, Terraform, Kubernetes, and CI/CD stuff. I’m not very far into it yet, but it piqued my interest and I’m trying to get decent at it.
 
-You can reach me out (for whatever reason) at manzil.akbar@gmail.com
+#### You can reach me out (for whatever reason) here:   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzil.akbar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziliscite)
 
 # Tech Stack  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
