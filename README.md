@@ -6,9 +6,11 @@
 
 ![](https://art.pixilart.com/sr5z4f3573c19caws3.gif)
 
-#### I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. Beside farming, I often spend my time reading or writing fiction. 
+I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. Beside farming, I often spend my time reading or writing fiction. 
 
-#### You can reach me out (for whatever reason) at manzil.akbar@gmail.com
+I’ve spent a fair amount of time doing backend development—I mostly use Go and did a little bit of Python. I’ve built a bunch of REST APIs, some with microservice or event-driven designs. It's not that good, but some of them run. I’ve also done Android apps in Kotlin, tried to make sure the UI is pretty and responsive, with clean state and route management. My web frontend experience is very limited, just a basic Django MVC app with raw HTML/CSS/JS. Recently, I’ve become interested in cloud infrastructure. Things like AWS, Terraform, Kubernetes, and CI/CD stuff. I’m not very far into it yet, but it piqued my interest and I’m trying to get decent at it.
+
+You can reach me out (for whatever reason) at manzil.akbar@gmail.com
 
 ---
 
@@ -19,7 +21,7 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grpc.io)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFED29?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com)
