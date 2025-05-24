@@ -1,8 +1,8 @@
 # Hi there 👋
 
-![version: 19.05.2024](https://img.shields.io/badge/version-23.05.2025-red)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=ziliscite&style=flat&label=visitors&color=red)&nbsp;
-![GitHub](https://img.shields.io/github/followers/ziliscite?label=follow&style=social&color=red)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=ziliscite&style=flat&label=visitors&color=blue)&nbsp;
+![version: 19.05.2024](https://img.shields.io/badge/version-24.05.2025-blue)&nbsp;
+![GitHub](https://img.shields.io/github/followers/ziliscite?label=follow&style=social&color=blue)&nbsp;
 
 ![](https://art.pixilart.com/sr5z4f3573c19caws3.gif)
 
@@ -11,8 +11,6 @@ I'm a mediocre computer science student who's currently developed a keen interes
 I’ve spent a fair amount of time doing backend development—I mostly use Go and did a little bit of Python. I’ve built a bunch of REST APIs, some with microservice or event-driven designs. It's not that good, but some of them run. I’ve also done Android apps in Kotlin, tried to make sure the UI is pretty and responsive, with clean state and route management. My web frontend experience is very limited, just a basic Django MVC app with raw HTML/CSS/JS. Recently, I’ve become interested in cloud infrastructure. Things like AWS, Terraform, Kubernetes, and CI/CD stuff. I’m not very far into it yet, but it piqued my interest and I’m trying to get decent at it.
 
 You can reach me out (for whatever reason) at manzil.akbar@gmail.com
-
----
 
 # Tech Stack  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
@@ -31,8 +29,6 @@ You can reach me out (for whatever reason) at manzil.akbar@gmail.com
 [![Firebase](https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
 [![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)](https://material.io)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-
----
 
 # Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ziliscite&hide=jupyter%20notebook&layout=compact&theme=dracula)](https://github.com/ziliscite)
