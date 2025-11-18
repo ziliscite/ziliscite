@@ -6,9 +6,7 @@
 
 ![](https://art.pixilart.com/sr5z4f3573c19caws3.gif)
 
-I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. Beside farming, I often spend my time reading or writing fiction. 
-
-I’ve spent a fair amount of time doing backend development—I mostly use Go and did a little bit of Python. I’ve built a bunch of REST APIs, some with microservice or event-driven designs. It's not that good, but some of them run. I’ve also done Android apps in Kotlin, tried to make sure the UI is pretty and responsive, with clean state and route management. My web frontend experience is very limited, just a basic Django MVC app with raw HTML/CSS/JS. Recently, I’ve become interested in cloud infrastructure. Things like AWS, Terraform, Kubernetes, and CI/CD stuff. I’m not very far into it yet, but it piqued my interest and I’m trying to get decent at it.
+I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. Beside farming, I often spend my time reading fictions. 
 
 #### You can reach me out (for whatever reason) here:   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzil.akbar@gmail.com)
@@ -35,5 +33,3 @@ I’ve spent a fair amount of time doing backend development—I mostly use Go a
 # Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ziliscite&hide=jupyter%20notebook&layout=compact&theme=dracula)](https://github.com/ziliscite)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliscite&theme=dracula\&hide=issues\&show_icons=true)
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@ziliscite&theme=dracula\&layout=compact)](https://github.com/ziliscite)
