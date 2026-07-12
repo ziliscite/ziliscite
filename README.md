@@ -6,9 +6,9 @@
 
 ![](https://art.pixilart.com/sr5z4f3573c19caws3.gif)
 
-I'm a mediocre computer science student who's currently developed a keen interest in farming. When I’m not debugging code, you’ll find me cultivating tomato, chili pepper, and corn. Beside farming, I often spend my time reading fictions. 
+I'm a mediocre programmer who has currently lost an interest in software development. Currently switching to something else...   
 
-#### You can reach me out (for whatever reason) here:   
+#### You can reach me out here:   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzil.akbar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziliscite)
 
@@ -29,7 +29,3 @@ I'm a mediocre computer science student who's currently developed a keen interes
 [![Firebase](https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
 [![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)](https://material.io)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-
-# Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ziliscite&hide=jupyter%20notebook&layout=compact&theme=dracula)](https://github.com/ziliscite)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliscite&theme=dracula\&hide=issues\&show_icons=true)
