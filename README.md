@@ -6,8 +6,6 @@
 
 ![](https://artr2.pixilart.com/original/cfr2857e6e74b9aws3.gif)
 
-I'm a mediocre programmer who has currently lost interest in software development. Currently switching to something else...   
-
 #### You can reach me out here:   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzil.akbar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziliscite)
